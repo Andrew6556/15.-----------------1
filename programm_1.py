@@ -185,6 +185,6 @@ while True:
         print('Вы вышли из программы')
         break
 
-    else:
-        print('Не допустимый ввод')
-        continue
+    # else:
+    #     print('Не допустимый ввод')
+    #     continue
